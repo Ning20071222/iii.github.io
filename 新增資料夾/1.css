@@ -1,0 +1,19 @@
+table{background-image:url(static-assets-upload6546651826689574191.webp);
+     background-repeat: repeat-x;
+     background-size:cover;
+     position:
+}
+h1{background:radial-gradient(closest-side,  rgba(123, 255, 244, 0.5) ,rgb(224, 145, 255, 0.5));
+   text-align: center;
+}
+body{background-image:url(900774b18bb48058ac018e53f1ed1afe.jpg);
+     background-size: contain;
+    
+}
+caption{background:linear-gradient(25deg, rgb(255, 222, 237), rgb(255, 248, 209));
+        
+}
+p{text-align: center;
+  color:white;
+  background:radial-gradient(circle, rgba(38, 0, 143, 0.4),rgba(98, 0, 143, 0.4));
+}
